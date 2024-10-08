@@ -5,7 +5,7 @@
 </p>
 <hr>
 <h1 align="center">Hi, I'm Yash Parmar</h1>
-<h3 align="center"> Final Year Undergraduate @ CLGIET SUMERPUR</h3>
+<h3 align="center"> Final Year Undergraduate @ BTU BIKANER</h3>
 <p align="center">
 <a href="https://www.linkedin.com/in/yash-parmar-192050199/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="aksia" height="30" width="40" /></a>
 <a href="https://leetcode.com/Yash2608/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/leetcode.svg" alt="akash_chowrasia" height="30" width="40" /></a>
